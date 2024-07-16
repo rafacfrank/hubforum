@@ -1,6 +1,7 @@
 package com.rafacfrank.hubforum.domain.postagem.topico;
 
 import com.rafacfrank.hubforum.domain.autor.Autor;
+import com.rafacfrank.hubforum.domain.postagem.Curso;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;

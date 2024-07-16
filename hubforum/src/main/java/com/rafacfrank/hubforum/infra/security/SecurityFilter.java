@@ -1,5 +1,6 @@
 package com.rafacfrank.hubforum.infra.security;
 
+import com.rafacfrank.hubforum.domain.autor.usuario.UsuarioRepository;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

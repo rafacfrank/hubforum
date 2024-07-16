@@ -1,6 +1,6 @@
 package com.rafacfrank.hubforum.domain.postagem.topico;
 
-import hub.forum.leone.api.domain.postagem.Curso;
+import com.rafacfrank.hubforum.domain.postagem.Curso;
 import jakarta.validation.constraints.NotNull;
 
 public record DadosCriacaoTopico(@NotNull

@@ -1,4 +1,7 @@
 package com.rafacfrank.hubforum.domain.postagem.topico;
+
+import com.rafacfrank.hubforum.domain.ValidacaoException;
+import com.rafacfrank.hubforum.domain.autor.DadosAutor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

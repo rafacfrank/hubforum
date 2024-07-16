@@ -1,6 +1,9 @@
 package com.rafacfrank.hubforum.controller;
 
 
+import com.rafacfrank.hubforum.domain.autor.usuario.DadosUsuario;
+import com.rafacfrank.hubforum.domain.autor.usuario.Usuario;
+import com.rafacfrank.hubforum.domain.autor.usuario.UsuarioRepository;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

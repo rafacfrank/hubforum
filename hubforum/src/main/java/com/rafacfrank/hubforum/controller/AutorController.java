@@ -1,5 +1,9 @@
 package com.rafacfrank.hubforum.controller;
 
+import com.rafacfrank.hubforum.domain.autor.Autor;
+import com.rafacfrank.hubforum.domain.autor.AutorRepository;
+import com.rafacfrank.hubforum.domain.autor.DadosAutor;
+import com.rafacfrank.hubforum.domain.autor.DadosCadastroAutor;
 import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;
